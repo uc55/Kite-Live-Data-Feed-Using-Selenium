@@ -1,0 +1,2 @@
+# Kite-Live-Data-Feed-Using-Selenium
+This is a web automation project written in Python by using Selenium web driver. The automation targets a 'Watchlist' with pre added Nifty50 stocks on zerodha kite platform and it keeps open 'Marketwatch tab' for all stocks to avail the html elements in DOM for fetching OHLV data. Data refreshes by 1 second and for every refresh the process takes 13-30 seconds.
